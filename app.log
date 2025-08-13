@@ -1,0 +1,4 @@
+2025-07-25 10:06:41,155 CRITICAL: CRÍTICO: Não foi possível conectar ao banco de dados na inicialização: 2017 (HY000): Can't open named pipe to host: .  pipe: MySQL (2) [in c:\Users\VISITANTE\Documents\quiz_saeb\quiz_saeb\app.py:60]
+2025-07-25 10:06:41,179 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000 [in C:\Users\VISITANTE\AppData\Local\Programs\Python\Python313\Lib\site-packages\werkzeug\_internal.py:97]
+2025-07-25 10:06:41,179 INFO: [33mPress CTRL+C to quit[0m [in C:\Users\VISITANTE\AppData\Local\Programs\Python\Python313\Lib\site-packages\werkzeug\_internal.py:97]
